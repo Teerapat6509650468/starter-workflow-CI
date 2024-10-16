@@ -1,0 +1,23 @@
+{
+  "name": "starter-workflow-ci",
+  "version": "1.0.0",
+  "description": "Commit your way to the Lord; trust in him and he will do this: He will make your righteous reward shine like the dawn, your vindication like the noonday sun. Psalm 37:5-6",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teerapat6509650468/starter-workflow-CI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teerapat6509650468/starter-workflow-CI/issues"
+  },
+  "homepage": "https://github.com/Teerapat6509650468/starter-workflow-CI#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
